@@ -44,6 +44,7 @@ var/build/Test1.out.correct
 var/build/cray_csd.sed
 var/build/da_generic_boilerplate.m4
 var/build/decode_l2_airs.README
+var/build/depend
 var/build/landread.c.dist
 var/build/links
 var/build/md_calls.m4
