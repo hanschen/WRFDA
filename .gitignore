@@ -1,3 +1,6 @@
+# Compile log
+/*.log
+
 # File extensions
 *.a
 *.backup
